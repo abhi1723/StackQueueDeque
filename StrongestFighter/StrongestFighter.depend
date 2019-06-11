@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560250078 source:d:\stackqueuedeque\strongestfighter\main.cpp
+	<iostream>
+	<deque>
+
